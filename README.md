@@ -1,1 +1,1 @@
-docker exec -it react-flask-app_db_1 mongo /scripts/InitDB.js
+docker exec -it docker-project_db_1 mongo /scripts/InitDB.js
